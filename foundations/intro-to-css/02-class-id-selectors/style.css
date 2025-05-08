@@ -1,0 +1,20 @@
+p.oddnumbers {
+    background-color: salmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div#second {
+    color: blue;
+    font-size: 36px;
+}
+
+p.oddnumbers.cooler {
+    font-size: 24px;
+}
+
+div#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
